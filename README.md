@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding and cybersecurity
 - 🌱 I’m currently learning cybersecurity at UCLA Bootcamp
 - 💞
-- 📫 swhite5@ithaca.edu
+- 📫 swhite_5@outlook.com
 
 <!---
 WardenGray/WardenGray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
