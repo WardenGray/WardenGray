@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WardenGray
 - 👀 I’m interested in learning coding and cybersecurity
-- 🌱 I’m currently learning cybersecurity at UCLA Bootcamp
+- 🌱 I recently graduated from UCLA Cybersecurity Bootcamp
 - 💞
 - 📫 swhite_5@outlook.com
 
